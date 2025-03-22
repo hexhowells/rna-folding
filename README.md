@@ -29,6 +29,7 @@ Current
 
 - [Thoughts on how to think (and talk) about RNA structure](https://www.pnas.org/doi/epub/10.1073/pnas.2112677119)
 - [Ribonanza: deep learning of RNA structure through dual crowdsourcing](https://pmc.ncbi.nlm.nih.gov/articles/PMC10925082/pdf/nihpp-2024.02.24.581671v2.pdf)
+- [Protein Data Bank](https://www.rcsb.org/)
 - [Geometric nomenclature and classification of RNA base pairs](https://pmc.ncbi.nlm.nih.gov/articles/PMC1370104/pdf/11345429.pdf)
 - [trRosettaRNA: automated prediction of RNA 3D structure with transformer network](https://www.nature.com/articles/s41467-023-42528-4)
 - [The Cost of Sequencing a Human Genome](https://www.genome.gov/about-genomics/fact-sheets/Sequencing-Human-Genome-cost)
@@ -54,6 +55,14 @@ RNA is made up of two fundamental components
 
  - ribose-phosphate chain (negatively charged) (makes up 2/3 the necleotides mass)
  - bases: adenine (A), uracil (U), cytosine (C), guanine (G)
+
+
+# How do we model the problem?
+
+The input of the model is the RNA nucleotide sequence, we can also use MSA data to get evolutionarily related variants of the target RNA, basically giving us more data and highlighting which nucleotides are more important.
+
+The outupt of the model is a list of 3D coordinates for each nucleotide in the input sequence:w.
+
 
 
 # [paper] How to think about RNA structure
