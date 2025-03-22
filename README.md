@@ -64,6 +64,14 @@ The input of the model is the RNA nucleotide sequence, we can also use MSA data 
 The outupt of the model is a list of 3D coordinates for each nucleotide in the input sequence:w.
 
 
+# What does the data look like?
+
+The input data is a sequence of the 4 RNA nucleotide bases (A, U, C, G). We also get MSA files.
+
+MSA files are evolutionarily related variants of the target RNA structure, this can be from different species, isoforms, etc. Here, the nucleotides that stay the same across these different samples, are clearly important to maintain its foundational structure. Any nucleotides that have changed, are less important or have modified the RNA's structure. If two nucleotides have changed together, it could indicate that they have co-evolved and thus if nucleotide evolves, to maintain the same structure, the other one must as well.
+
+FASTA files are just basic file formats used to store these sequences, along with some basic metadata about the sequences, nothing too complex here.
+
 
 # [paper] How to think about RNA structure
 
