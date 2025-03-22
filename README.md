@@ -2,28 +2,17 @@
 
 Can we understand RNA-folding and start to figure out how to solve it?
 
-Background
---
- - what is RNA folding?
- - how is it different to protein folding?
- - what is its purpose?
+---
 
-Problem
---
- - how do we model the problem?
- - what do the inputs look like?
- - what do the outputs look like?
+## Questions
+| Section    | Questions                                                                                                                       |
+|------------|---------------------------------------------------------------------------------------------------------------------------------|
+| Background | - what is RNA folding? <br>- how is it different to protein folding? <br>- what is its purpose?                                         |
+| Problem    | - how do we model the problem? <br>- what do the inputs look like? <br>- what do the outputs look like?                                 |
+| Data       | - what does the data look like? <br>- what datasets are currently available?                                                        |
+| SOTA       | - what is the current state of the art in this domain? <br>- are there similar domains (protein folding?) that can be applied here? |
 
-Data
---
- - what does the data look like?
- - what datasets are currently available?
-
-Current
---
- - what is the current state of the art in this domain?
- - are there similar domains (protein folding?) that can be applied here?
-
+---
 
 # Papers / links
 
