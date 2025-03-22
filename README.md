@@ -48,6 +48,11 @@ RNA has 3 primary structures:
 2. Secondary structure - local structures in the RNA (hairpin loops, stems, bulges, internal loop, etc)
 3. Tertiary structure - the full 3D shape of the RNA
 
+<p>
+  <img src="https://github.com/hexhowells/rna-folding/blob/main/images/secondary-structs.png" height="250" />
+  <br>
+  <em>Common RNA secondary structures. Source: https://www.nature.com/articles/s41467-021-21194-4</em>
+</p>
 
 ## RNA structure
 
