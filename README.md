@@ -1,4 +1,4 @@
-# rna-folding
+# RNA Folding Research
 
 Can we understand RNA-folding and start to figure out how to solve it?
 
