@@ -8,5 +8,7 @@ conformational landscape - the range of possibile shapes a molecule can adopt, a
 residue - A single unit, such as an amino acid or necleotide, that remains part of a larger biological molecule after it forms
 monomer - a small molecule that can bond with other molecules to form a larger, more complex molecule called a polymer
 isoform - A slightly different version of the same protein or gene, often produced by alternative splicing or genertic variation
+coevolution - The process in which interacting RNA molecules or regions within RNA sequences evolve together to maintain their structure or functional relationships
+
 
 
