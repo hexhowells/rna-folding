@@ -25,7 +25,7 @@ Current
  - are there similar domains (protein folding?) that can be applied here?
 
 
-# Papers
+# Papers / links
 
 - [Thoughts on how to think (and talk) about RNA structure](https://www.pnas.org/doi/epub/10.1073/pnas.2112677119)
 - [Ribonanza: deep learning of RNA structure through dual crowdsourcing](https://pmc.ncbi.nlm.nih.gov/articles/PMC10925082/pdf/nihpp-2024.02.24.581671v2.pdf)
@@ -44,7 +44,7 @@ RNA folding is where a strand of RNA folds into a low energy state. RNA shape ca
 - mRNA folding affects translation and stability
 
 RNA has 3 primary structures:
-1. Primary structure - the initial linear sequence of nucleotides (our input?)
+1. Primary structure - the initial linear sequence of nucleotides (our input)
 2. Secondary structure - local structures in the RNA (hairpin loops, stems, bulges, internal loop, etc)
 3. Tertiary structure - the full 3D shape of the RNA
 
