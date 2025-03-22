@@ -22,6 +22,15 @@ Can we understand RNA-folding and start to figure out how to solve it?
 - [Geometric nomenclature and classification of RNA base pairs](https://pmc.ncbi.nlm.nih.gov/articles/PMC1370104/pdf/11345429.pdf)
 - [trRosettaRNA: automated prediction of RNA 3D structure with transformer network](https://www.nature.com/articles/s41467-023-42528-4)
 - [The Cost of Sequencing a Human Genome](https://www.genome.gov/about-genomics/fact-sheets/Sequencing-Human-Genome-cost)
+- [The Illustrated AlphaFold](https://elanapearl.github.io/blog/2024/the-illustrated-alphafold/)
+- [DRfold2: Ab initio RNA structure prediction with composite language model and denoised end-to-end learning](https://github.com/leeyang/DRfold2)
+- [FastFold: Reducing AlphaFold Training Time from 11 Days to 67 Hours](https://arxiv.org/abs/2203.00854)
+- [Pro-1: reasoning models for protein stability](https://michaelhla.com/blog/pro1.html)
+- [Protenix: A trainable PyTorch reproduction of AlphaFold 3](https://github.com/bytedance/Protenix)
+- [Deep learning for RNA structure prediction](https://www.sciencedirect.com/science/article/pii/S0959440X25000090)
+- [CASP16](https://predictioncenter.org/casp16/index.cgi)
+- [RNA-Puzzles](https://www.rnapuzzles.org/)
+
 
 
 # Background
@@ -65,6 +74,12 @@ The input data is a sequence of the 4 RNA nucleotide bases (A, U, C, G). We also
 MSA files are evolutionarily related variants of the target RNA structure, this can be from different species, isoforms, etc. Here, the nucleotides that stay the same across these different samples, are clearly important to maintain its foundational structure. Any nucleotides that have changed, are less important or have modified the RNA's structure. If two nucleotides have changed together, it could indicate that they have co-evolved and thus if nucleotide evolves, to maintain the same structure, the other one must as well.
 
 FASTA files are just basic file formats used to store these sequences, along with some basic metadata about the sequences, nothing too complex here.
+
+## Current datasets
+
+- [Stanford RNA 3D Folding](https://www.kaggle.com/competitions/stanford-rna-3d-folding/data)
+- [RFDiffusion - uw_synthetic_rna_structures](https://www.kaggle.com/datasets/andrewfavor/uw-synthetic-rna-structures)
+- []()
 
 
 # [paper] How to think about RNA structure
