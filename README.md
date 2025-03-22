@@ -79,7 +79,6 @@ FASTA files are just basic file formats used to store these sequences, along wit
 
 - [Stanford RNA 3D Folding](https://www.kaggle.com/competitions/stanford-rna-3d-folding/data)
 - [RFDiffusion - uw_synthetic_rna_structures](https://www.kaggle.com/datasets/andrewfavor/uw-synthetic-rna-structures)
-- []()
 
 
 # [paper] How to think about RNA structure
