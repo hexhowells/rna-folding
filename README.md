@@ -28,8 +28,10 @@ Current
 # Papers
 
 - [Thoughts on how to think (and talk) about RNA structure](https://www.pnas.org/doi/epub/10.1073/pnas.2112677119)
+- [Ribonanza: deep learning of RNA structure through dual crowdsourcing](https://pmc.ncbi.nlm.nih.gov/articles/PMC10925082/pdf/nihpp-2024.02.24.581671v2.pdf)
 - [Geometric nomenclature and classification of RNA base pairs](https://pmc.ncbi.nlm.nih.gov/articles/PMC1370104/pdf/11345429.pdf)
-
+- [trRosettaRNA: automated prediction of RNA 3D structure with transformer network](https://www.nature.com/articles/s41467-023-42528-4)
+- [The Cost of Sequencing a Human Genome](https://www.genome.gov/about-genomics/fact-sheets/Sequencing-Human-Genome-cost)
 
 
 # Background
