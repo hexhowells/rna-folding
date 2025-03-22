@@ -30,6 +30,11 @@ Can we understand RNA-folding and start to figure out how to solve it?
 - [Deep learning for RNA structure prediction](https://www.sciencedirect.com/science/article/pii/S0959440X25000090)
 - [CASP16](https://predictioncenter.org/casp16/index.cgi)
 - [RNA-Puzzles](https://www.rnapuzzles.org/)
+- [University of Missouri Computational RNA Biophysics - Research](https://vfold.missouri.edu/research.html)
+- [RNA-Puzzles Round V: blind predictions of 23 RNA structures](https://www.nature.com/articles/s41592-024-02543-9)
+- [RhoFold+: Accurate RNA 3D structure prediction using a language model-based deep learning approach](https://github.com/ml4bio/RhoFold)
+- [Boltz-1](https://github.com/jwohlwend/boltz)
+- [Chai-1](https://github.com/chaidiscovery/chai-lab)
 
 
 
