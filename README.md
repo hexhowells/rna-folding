@@ -35,7 +35,7 @@ Can we understand RNA-folding and start to figure out how to solve it?
 - [RhoFold+: Accurate RNA 3D structure prediction using a language model-based deep learning approach](https://github.com/ml4bio/RhoFold)
 - [Boltz-1](https://github.com/jwohlwend/boltz)
 - [Chai-1](https://github.com/chaidiscovery/chai-lab)
-
+- [Introduction to Protein Data Bank Format](https://www.cgl.ucsf.edu/chimera/docs/UsersGuide/tutorials/pdbintro.html)
 
 
 # Background
