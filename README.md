@@ -14,6 +14,20 @@ Can we understand RNA-folding and start to figure out how to solve it?
 
 ---
 
+# Current Models
+Model         | Code | Paper
+--------------|------|------
+AlphaFold     | https://github.com/google-deepmind/alphafold/tree/main/alphafold/model | https://www.nature.com/articles/s41586-024-07487-w
+RhoFold       | https://github.com/ml4bio/RhoFold | https://www.nature.com/articles/s41592-024-02487-0
+DrFold        | https://github.com/leeyang/DRfold2 | https://www.biorxiv.org/content/10.1101/2025.03.05.641632v1 
+trRosettaRNA  | ? | https://www.nature.com/articles/s41467-023-42528-4
+Chai-1        | https://github.com/chaidiscovery/chai-lab | https://www.biorxiv.org/content/10.1101/2024.10.10.615955v2
+Boltz-1       | https://github.com/jwohlwend/boltz | https://doi.org/10.1101/2024.11.19.624167
+Pro-1         | https://github.com/michaelhla/pro-1 | https://michaelhla.com/blog/pro1.html
+Protenix      | https://github.com/bytedance/Protenix | AlphaFold 3 implementation
+
+
+
 # Papers / links
 
 - [Thoughts on how to think (and talk) about RNA structure](https://www.pnas.org/doi/epub/10.1073/pnas.2112677119)
