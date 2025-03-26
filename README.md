@@ -36,6 +36,7 @@ Can we understand RNA-folding and start to figure out how to solve it?
 - [Boltz-1](https://github.com/jwohlwend/boltz)
 - [Chai-1](https://github.com/chaidiscovery/chai-lab)
 - [Introduction to Protein Data Bank Format](https://www.cgl.ucsf.edu/chimera/docs/UsersGuide/tutorials/pdbintro.html)
+- [RNA function follows form – why is it so hard to predict?](https://www.nature.com/articles/d41586-025-00920-8)
 
 
 # Background
