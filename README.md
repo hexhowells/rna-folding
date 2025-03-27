@@ -20,6 +20,7 @@ Model         | Code | Paper
 AlphaFold     | https://github.com/google-deepmind/alphafold/tree/main/alphafold/model | https://www.nature.com/articles/s41586-024-07487-w
 Ribonanza     | https://github.com/Shujun-He/RibonanzaNet | https://pmc.ncbi.nlm.nih.gov/articles/PMC10925082/pdf/nihpp-2024.02.24.581671v2.pdf
 RhoFold       | https://github.com/ml4bio/RhoFold | https://www.nature.com/articles/s41592-024-02487-0
+NuFold        | https://github.com/kiharalab/NuFold | https://www.nature.com/articles/s41467-025-56261-7
 DrFold        | https://github.com/leeyang/DRfold2 | https://www.biorxiv.org/content/10.1101/2025.03.05.641632v1 
 trRosettaRNA  | ? | https://www.nature.com/articles/s41467-023-42528-4
 Chai-1        | https://github.com/chaidiscovery/chai-lab | https://www.biorxiv.org/content/10.1101/2024.10.10.615955v2
