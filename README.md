@@ -52,6 +52,7 @@ Protenix      | https://github.com/bytedance/Protenix | AlphaFold 3 implementati
 - [Chai-1](https://github.com/chaidiscovery/chai-lab)
 - [Introduction to Protein Data Bank Format](https://www.cgl.ucsf.edu/chimera/docs/UsersGuide/tutorials/pdbintro.html)
 - [RNA function follows form – why is it so hard to predict?](https://www.nature.com/articles/d41586-025-00920-8)
+- [ATOM-1: A Foundation Model for RNA Structure and Function Built on Chemical Mapping Data](https://www.biorxiv.org/content/10.1101/2023.12.13.571579v1)
 
 
 # Background
@@ -100,6 +101,7 @@ FASTA files are just basic file formats used to store these sequences, along wit
 
 - [Stanford RNA 3D Folding](https://www.kaggle.com/competitions/stanford-rna-3d-folding/data)
 - [RFDiffusion - uw_synthetic_rna_structures](https://www.kaggle.com/datasets/andrewfavor/uw-synthetic-rna-structures)
+- [trRosettaRNA Training Datasets](https://yanglab.qd.sdu.edu.cn/trRosettaRNA/benchmark/)
 
 
 # [paper] How to think about RNA structure
