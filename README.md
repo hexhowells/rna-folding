@@ -56,6 +56,7 @@ Protenix      | https://github.com/bytedance/Protenix | AlphaFold 3 implementati
 - [ATOM-1: A Foundation Model for RNA Structure and Function Built on Chemical Mapping Data](https://www.biorxiv.org/content/10.1101/2023.12.13.571579v1)
 - [RNAcentral: The non-coding RNA sequence database](https://rnacentral.org/)
 - [forna - RNA Secondary Structure Visualization Using a Force Directed Graph Layout](http://rna.tbi.univie.ac.at/forna/)
+- [ColabFold](https://github.com/sokrypton/ColabFold)
 
 
 # Background
